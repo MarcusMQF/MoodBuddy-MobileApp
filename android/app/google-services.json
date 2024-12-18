@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634146131992",
+    "project_id": "moodbuddy-f0928",
+    "storage_bucket": "moodbuddy-f0928.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634146131992:android:7c59152e61829b193eb36d",
+        "android_client_info": {
+          "package_name": "com.example.moodbuddy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNYe6D0W6IPrS1q9o9WbGozQt-hYrq50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
