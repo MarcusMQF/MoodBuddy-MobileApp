@@ -12,24 +12,24 @@ The Interactive Story Dice and MoodBuddy App is a mobile application designed to
 
 ## Showcase
 
-<img src="Demo1.png" alt="Demo1" width="400"/> 
-<img src="Demo2.png" alt="Demo2" width="400"/>
+<img src="Demo1.png" alt="Demo1" width="900"/> 
+<img src="Demo2.png" alt="Demo2" width="900"/>
 
 ## Features
 
-- Emotion Dice: Dice with symbols representing different emotions (e.g., happy, sad, angry, calm) to facilitate emotional expression.
+- **Emotion Dice:** Dice with symbols representing different emotions (e.g., happy, sad, angry, calm) to facilitate emotional expression.
 
-- Character, Setting, and Action Dice: Dice with images of relatable characters, settings, and actions to encourage creative storytelling.
+- **Character, Setting, and Action Dice:** Dice with images of relatable characters, settings, and actions to encourage creative storytelling.
 
-- Storytelling Integration: The app automatically captures the outcomes of the dice rolls and allows the child or parent to input the story.
+- **Storytelling Integration:** The app automatically captures the outcomes of the dice rolls and allows the child or parent to input the story.
 
-- Mood Tracking: Children can log their mood before and after the storytelling session, which is tracked within the app.
+- **Mood Tracking:** Children can log their mood before and after the storytelling session, which is tracked within the app.
 
-- Progress Monitoring: The app provides insights into the child's emotional trends, mood changes, and storytelling progression.
+- **Progress Monitoring:** The app provides insights into the child's emotional trends, mood changes, and storytelling progression.
 
-- Reward System: Children earn stars or badges for completing stories, using diverse dice, and showing mood improvements.
+- **Reward System:** Children earn stars or badges for completing stories, using diverse dice, and showing mood improvements.
 
-- Personalized Recommendations: The app suggests calming activities or music based on the child's emotional patterns.
+- **Personalized Recommendations:** The app suggests calming activities or music based on the child's emotional patterns.
 
 ## Technology Stack
 
