@@ -27,8 +27,6 @@ The Interactive Story Dice and MoodBuddy App is a mobile application designed to
 
 - **Progress Monitoring:** The app provides insights into the child's emotional trends, mood changes, and storytelling progression.
 
-- **Reward System:** Children earn stars or badges for completing stories, using diverse dice, and showing mood improvements.
-
 - **Personalized Recommendations:** The app suggests calming activities or music based on the child's emotional patterns.
 
 ## Technology Stack
