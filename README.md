@@ -1,21 +1,17 @@
-# Moodbuddy Mobile Application
+# 🗰 Moodbuddy Mobile Application Prototype
 
-The Interactive Story Dice and MoodBuddy App is a mobile application designed to help autistic children express their emotions and build creativity through storytelling. The app integrates with a set of physical story dice (Toys) that children can use to create unique narratives, which are then tracked and analyzed within the app.
+The Interactive Story Dice and MoodBuddy App is a mobile application designed to help autistic children express their emotions and build creativity through storytelling. The app's idea is to integrates with a set of physical story dice (Toys) that children can use to create unique narratives, which are then tracked and analyzed within the app.
 
-## Table of Contents
+---
 
-- [Showcase](#showcase)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [License](#license)
-
-## Showcase
+## 🖼️ Showcase
 
 <img src="Demo1.png" alt="Demo1" width="900"/> 
 <img src="Demo2.png" alt="Demo2" width="900"/>
 
-## Features
+---
+
+## ⭐ Features
 
 - **Emotion Dice:** Dice with symbols representing different emotions (e.g., happy, sad, angry, calm) to facilitate emotional expression.
 
@@ -29,13 +25,34 @@ The Interactive Story Dice and MoodBuddy App is a mobile application designed to
 
 - **Personalized Recommendations:** The app suggests calming activities or music based on the child's emotional patterns.
 
-## Technology Stack
+---
 
-- Framework: Flutter (cross-platform mobile development)
-- Programming Language: Dart
+## 🛠️ Technology Stack
 
+### Core Technologies
+- **Framework:** Flutter (cross-platform mobile development)
+- **Programming Language:** Dart
+- **Backend & Authentication:** Firebase
 
-## Installation
+### Key Components
+- **State Management:** Provider
+- **Authentication:** Firebase Authentication
+- **Data Storage:** Firebase Cloud Storage
+- **Real-time Updates:** Firebase Realtime Database
+
+### Features Implementation
+- **Interactive Gaming:** Custom implementation (Flappy Bird mini-game)
+- **User Interface:** Material Design components
+- **Cross-platform Support:** Android, iOS, and Linux
+
+### Development Tools
+- **Version Control:** Git
+- **Build System:** CMake (Linux)
+- **Package Management:** Flutter pub
+
+---
+
+## 🪛 Installation
 
 1. Clone the repository:
 
@@ -57,6 +74,8 @@ flutter pub get
 flutter run
 ```
 
-## License
+---
+
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
